@@ -1,0 +1,92 @@
+[
+  {
+    "name": "account",
+    "path": "/account",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\account\\\\index.vue",
+    "chunkName": "pages/account/index"
+  },
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup"
+  },
+  {
+    "name": "account-favorites",
+    "path": "/account/favorites",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\account\\\\favorites.vue",
+    "chunkName": "pages/account/favorites"
+  },
+  {
+    "name": "account-reservations",
+    "path": "/account/reservations",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\account\\\\reservations.vue",
+    "chunkName": "pages/account/reservations"
+  },
+  {
+    "name": "admin-account",
+    "path": "/admin/account",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\admin\\\\account.vue",
+    "chunkName": "pages/admin/account"
+  },
+  {
+    "name": "admin-login",
+    "path": "/admin/login",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\admin\\\\login.vue",
+    "chunkName": "pages/admin/login"
+  },
+  {
+    "name": "admin-travels",
+    "path": "/admin/travels",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\admin\\\\travels\\\\index.vue",
+    "chunkName": "pages/admin/travels/index"
+  },
+  {
+    "name": "admin-travels-new",
+    "path": "/admin/travels/new",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\admin\\\\travels\\\\new.vue",
+    "chunkName": "pages/admin/travels/new"
+  },
+  {
+    "name": "admin-travels-id",
+    "path": "/admin/travels/:id",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\admin\\\\travels\\\\_id\\\\index.vue",
+    "chunkName": "pages/admin/travels/_id/index"
+  },
+  {
+    "name": "admin-travels-id-edit",
+    "path": "/admin/travels/:id/edit",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\admin\\\\travels\\\\_id\\\\edit.vue",
+    "chunkName": "pages/admin/travels/_id/edit"
+  },
+  {
+    "name": "admin-travels-id-reservations",
+    "path": "/admin/travels/:id/reservations",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\admin\\\\travels\\\\_id\\\\reservations.vue",
+    "chunkName": "pages/admin/travels/_id/reservations"
+  },
+  {
+    "name": "travel-id",
+    "path": "/travel/:id?",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\travel\\\\_id.vue",
+    "chunkName": "pages/travel/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Treecloud-dev\\\\Documents\\\\developer\\\\web-tours-frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
