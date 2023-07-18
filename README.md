@@ -1,22 +1,35 @@
-# tour-agency-web
+# Tour Agency Web
 
-> ufg project
+## Descripción
+Es una aplicacion que permite a los turistas a mostrar y reservar los lugares turisticos
+## Autor
+- Rigoberto Gómez
 
-## Build Setup
+## Instalación
+1. Clona el repositorio: `git clone https://ruta-del-repositorio.git`
+2. Ingresa al directorio del proyecto: `cd tour-agency-web`
+3. Instala las dependencias: `npm install`
 
-```bash
-# install dependencies
-$ yarn install
+## Uso
+- Ejecutar en modo de desarrollo: `npm run dev`
+- Construir el proyecto: `npm run build`
+- Iniciar en producción: `npm start`
+- Generar archivos estáticos: `npm run generate`
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+## Dependencias
+- @nuxtjs/axios: ^5.3.6
+- cookie-universal-nuxt: ^2.1.4
+- date-fns: ^2.14.0
+- nuxt: ^2.0.0
+- vee-validate: 3.2.5
+- vue-quill-editor: ^3.0.6
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+## Dependencias de desarrollo
+- node-sass: ^4.14.0
+- nuxt-webfontloader: ^1.1.0
+- sass-loader: ^8.0.2
+- tailwindcss: ^1.3.5
 
-# generate static project
-$ yarn generate
-```
+## Licencia
+Este proyecto es privado y no se permite su uso sin autorización.
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
